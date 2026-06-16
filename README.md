@@ -1,16 +1,61 @@
-## Hi there 👋
+## Tech Stack
 
-<!--
-**YOON3N4M/YOON3N4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square\&logo=greensock\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square\&logo=framer\&logoColor=white)
+
+### State & Data
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square\&logo=react\&logoColor=white)
+
+### Backend & Infra
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+---
+
+## Side Projects
+
+### LoL Match History
+
+Riot API를 활용한 리그오브레전드 전적 조회 서비스입니다.
+Next.js App Router와 Firebase Admin 기반 서버 캐시를 활용해 API 요청 안정성과 데이터 로딩 경험을 개선했습니다.
+
+
+[GitHub](https://github.com/YOON3N4M/lol-match-history) / [Demo](https://lol-match-histroy.vercel.app/)
+
+---
+
+### ReptileList
+
+파충류 사육자와 브리더를 위한 개체 관리 서비스입니다.
+개체 관리, 루틴 기록, 브리딩 히스토리, 분양 관리 흐름을 하나의 서비스로 정리하는 것을 목표로 개발하고 있습니다.
+
+[Product](https://reptilelist.vercel.app)
+
+---
+
+### Obey
+
+오베이 기타 음악 학원의 연습실 예약 등 운영 관리 도구 입니다.
+
+
+[Product](https://obey-guitar.vercel.app)
+
+---
+
+## Contact
+
+📧 Gmail: [lgmysn2@gmail.com](mailto:lgmysn2@gmail.com)
